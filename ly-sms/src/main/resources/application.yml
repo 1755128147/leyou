@@ -12,7 +12,7 @@ spring:
     host: 192.168.189.110
 ly:
   sms:
-    accessKeyId: LTAI4GE1y3GY6Jv7YTgoiQpM # 自己的accessKeyId
-    accessKeySecret: V04CVJ7IPQJ9X4xAirghjKLWk3wbs4 # 自己的accessKeySecret
+    accessKeyId: JWffwFJIwada # 自己的accessKeyId
+    accessKeySecret: aySRliswq8fe7rF9gQyy1Izz4MQ # 自己的accessKeySecret
     signName: 乐优商城 # 签名名称
-    verifyCodeTemplate: SMS_190282710 # 模板名称
+    verifyCodeTemplate: SMS_133976814 # 模板名称
